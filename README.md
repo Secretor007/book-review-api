@@ -15,7 +15,7 @@ You can find the full API documentation here:
 1. **Clone the repository**:
 
 ```
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/Secretor007/book-review-api.git
 cd book-review-api
 ```
 2. **Install dependencies**:
