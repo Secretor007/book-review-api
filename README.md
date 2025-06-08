@@ -60,7 +60,7 @@ Bearer <your_token>
 <br/>
 📊 Database Schema
 
-    User: { username, email, passwordHash }
+    User: { username, email, password }
     
     Book: { title, author, genre }
     
